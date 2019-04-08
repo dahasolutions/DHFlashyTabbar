@@ -1,0 +1,16 @@
+PODS:
+  - DHFlashyTabBar (5.0.0)
+
+DEPENDENCIES:
+  - DHFlashyTabBar (from `.`)
+
+EXTERNAL SOURCES:
+  DHFlashyTabBar:
+    :path: "."
+
+SPEC CHECKSUMS:
+  DHFlashyTabBar: 0a2f520fc76a2d96834a1966a60299c5f16e48ef
+
+PODFILE CHECKSUM: 4e14e77b927252d4febdfb9b83224ade8e41ec95
+
+COCOAPODS: 1.5.3
